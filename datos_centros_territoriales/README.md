@@ -4,3 +4,4 @@ Material docente del curso de Periodismo de datos para Centros Territoriales de 
 
 <h2>Ejemplos práctica:</h2>
 - Lotería de Navidad (https://drive.google.com/file/d/14lVE9qav07mA4cZl5ma5hrqsBxch2K04/view?usp=sharing)
+- Radiografía de la Sanidad (https://drive.google.com/file/d/1VF7QzyjAzuja2keHWjoxiynqtGdxMRsH/view?usp=sharing)
